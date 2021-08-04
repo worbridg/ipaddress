@@ -1,3 +1,5 @@
+[![ci](https://github.com/worbridg/ipaddress/actions/workflows/ci.yml/badge.svg)](https://github.com/worbridg/ipaddress/actions/workflows/ci.yml)
+
 # ipaddress
 
 A library handling IP addresses like [ipaddress-gem/ipaddress](https://github.com/ipaddress-gem/ipaddress).
