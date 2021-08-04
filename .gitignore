@@ -1,0 +1,6 @@
+# Editors
+*.sw[a-z]
+*~
+*#
+*.code-workspace
+/.vscode
