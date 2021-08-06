@@ -1,4 +1,5 @@
 [![ci](https://github.com/worbridg/ipaddress/actions/workflows/ci.yml/badge.svg)](https://github.com/worbridg/ipaddress/actions/workflows/ci.yml)
+[![go-referrence](https://pkg.go.dev/badge/worbridg/ipaddress)](https://pkg.go.dev/github.com/worbridg/ipaddress)
 
 # ipaddress
 
